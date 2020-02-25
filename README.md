@@ -1,7 +1,7 @@
 # Microsoft.Extensions.Caching.SqlServerInMemory
 SQL Server In Memory OLTP Table compatible version of IDistributedCache implementation
 
-# Related to the following open Github Issues:
+# Related to the following Github Issues:
 
 [Add support for “in-memory tables” in Microsoft.Extensions.Caching.SqlServer](https://github.com/dotnet/extensions/issues/1894)
 
